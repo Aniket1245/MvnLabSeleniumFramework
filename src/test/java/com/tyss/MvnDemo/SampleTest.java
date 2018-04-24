@@ -22,5 +22,6 @@ public class SampleTest {
 		System.out.println("The url name is:="+URLName);
 		
 		System.out.println("Sample Test Execute");
+		System.out.println("testing jenkins build process");
 	}
 }
