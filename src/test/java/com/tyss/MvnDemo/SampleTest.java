@@ -15,7 +15,7 @@ public class SampleTest {
 	@Test
 	public void sampleTest()
 	{
-		String browserName=System.getProperty("browser");
+		String browserName=System.getProperty("browserxxx");
 		String URLName=System.getProperty("url");
 		
 		System.out.println("The browser name is:="+browserName);
