@@ -23,5 +23,7 @@ public class SampleTest {
 		
 		System.out.println("Sample Test Execute");
 		System.out.println("testing jenkins build process");
+				System.out.println("testing jenkins build process for cheking conflicts");
+
 	}
 }
